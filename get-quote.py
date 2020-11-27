@@ -1,6 +1,6 @@
 import random
 
-last = 13
+last = 12
 rnd = random.randint(0, last)
 
 def primary():
